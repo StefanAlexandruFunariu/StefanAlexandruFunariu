@@ -1,7 +1,8 @@
-### Hi there 👋
+# How to reach me 
 
-<!--
-**StefanAlexandruFunariu/StefanAlexandruFunariu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href = "https://www.linkedin.com/in/stefan-alexandru-funariu/">
+  <img scr = "Logos/LinkedIn.png" width= "auto" height= "50px" />
+</a>
 
 Here are some ideas to get you started:
 
