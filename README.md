@@ -1,7 +1,7 @@
 # How to reach me 
 
 <a href = "https://www.linkedin.com/in/stefan-alexandru-funariu/">
-  <img scr = "LinkedIn.png" width= "auto" height= "50px" />
+  <img scr = "LinkedIn-Logos.zip\LinkedIn-Logos" width= "auto" height= "50px" />
 </a>
 
 Here are some ideas to get you started:
